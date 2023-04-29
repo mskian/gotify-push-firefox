@@ -31,7 +31,7 @@ Firefox Extension for Send Push Notification to gotify/server 🔔
 
 You must configure your server CORS allow this extension to Send push notification from this Extension
 
-- Open `config.yml` File and Update the CORS
+- Open `config.yml` File and Update the CORS - Soon Clear Method will be Update After Extension Fully Submitted on Firefox Extension Store.
 
 ## Features
 
